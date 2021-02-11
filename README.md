@@ -13,4 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+## Coding Activity 👩🏽‍💻
+
+<br/>
+
+<div style="display:inline" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=azumamagus&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="azumamagus's github stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azumamagus&hide=Makefile&layout=compact" height="150" alt="azumamagus's top langs" />
+</div>
 -->
+
+
+
