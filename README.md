@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+-->
 
 ## Coding Activity 👩🏽‍💻
 
@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azumamagus&hide=Makefile&layout=compact" height="150" alt="azumamagus's top langs" />
 </div>
--->
+
+## Coding Activity 👩🏽‍💻
+
+
 
 
 
