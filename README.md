@@ -42,7 +42,8 @@ Here are some ideas to get you started:
   <a href = "mailto:bruno.dc.felipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunodcfelipe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/NICKINFORMATICARESERVA/cobra-do-grid/blob/main/cobra%20da%20grade%20de%20contribui%C3%A7%C3%A3o.svg)
+
  
 </div>
 
