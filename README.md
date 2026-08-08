@@ -1,48 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,50:0F3D2E,100:00FF9C&height=200&section=header&text=Bruno%20Da%20Cunha%20Felipe&fontColor=E6FFF4&fontSize=44&fontAlignY=34&desc=Software%20Developer%20%C2%B7%20Application%20Security&descAlignY=54&descSize=16" alt="Bruno Da Cunha Felipe" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:00251A,100:00FF9C&height=230&section=header&text=BRUNO%20FELIPE&fontColor=00FF9C&fontSize=60&fontAlignY=34&desc=full%20stack%20developer%20%2F%2F%20offensive%20security&descAlignY=55&descSize=17&animation=fadeIn" alt="Bruno Felipe" width="100%" />
 
 <a href="https://brunofelipe.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=680&lines=Desenvolvedor+.NET+%26+PHP;Full+Stack+%C2%B7+APIs+%C2%B7+Modernização+de+legado;Pentest+web+%26+Application+Security;Secure+by+design%2C+não+por+acidente" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FF9C&background=00000000&center=true&vCenter=true&width=760&height=45&lines=%3E+initializing+shell...;%3E+.NET+%7C+C%23+%7C+PHP+%7C+Laravel+%7C+React+%7C+TypeScript;%3E+APIs+%C2%B7+integra%C3%A7%C3%B5es+%C2%B7+moderniza%C3%A7%C3%A3o+de+legado;%3E+pentest+web+%C2%B7+application+security+%C2%B7+OWASP;%3E+secure+by+design%2C+n%C3%A3o+por+acidente_" alt="Typing intro" />
 </a>
 
-`Bauru, São Paulo, Brasil (UTC-3)` · `Aberto a projetos e oportunidades remotas`
+<samp>
 
-[![Website](https://img.shields.io/badge/brunofelipe.dev-0B0B0F?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF9C)](https://brunofelipe.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/brunodcfelipe/)
-[![Hack The Box](https://img.shields.io/badge/HTB-@4zum4-0B0B0F?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019faf44-6f7d-737b-9f44-7e528431d3f7)
-[![TryHackMe](https://img.shields.io/badge/THM-@azumamagus-0B0B0F?style=for-the-badge&logo=tryhackme&logoColor=C11111)](https://tryhackme.com/p/azumamagus)
-[![Credly](https://img.shields.io/badge/Credly-0B0B0F?style=for-the-badge&logo=credly&logoColor=FF6B00)](https://www.credly.com/users/bruno-felipe.79c96959)
-[![E-mail](https://img.shields.io/badge/contato@brunofelipe.dev-0B0B0F?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:contato@brunofelipe.dev)
+`Bauru, São Paulo, Brasil` · `UTC-3` · `Aberto a projetos e oportunidades remotas`
+
+</samp>
+
+[![Website](https://img.shields.io/badge/brunofelipe.dev-050505?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF9C&labelColor=050505)](https://brunofelipe.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=050505)](https://www.linkedin.com/in/brunodcfelipe/)
+[![Hack The Box](https://img.shields.io/badge/HTB-@4zum4-050505?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=050505)](https://profile.hackthebox.com/profile/019faf44-6f7d-737b-9f44-7e528431d3f7)
+[![TryHackMe](https://img.shields.io/badge/THM-@azumamagus-050505?style=for-the-badge&logo=tryhackme&logoColor=00FF9C&labelColor=050505)](https://tryhackme.com/p/azumamagus)
+[![Credly](https://img.shields.io/badge/Credly-050505?style=for-the-badge&logo=credly&logoColor=00FF9C&labelColor=050505)](https://www.credly.com/users/bruno-felipe.79c96959)
+[![E-mail](https://img.shields.io/badge/contato@brunofelipe.dev-050505?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=050505)](mailto:contato@brunofelipe.dev)
 
 </div>
 
 ---
 
-```console
-┌──(bruno㉿brunofelipe.dev)-[~]
-└─$ whoami --verbose
+```ini
+; ┌──(bruno㉿brunofelipe.dev)-[~]
+; └─$ cat /etc/operator.conf
 
-  handle      : @4zum4  ·  @azumamagus
-  role        : Full Stack Developer  ::  Offensive Security enthusiast
-  languages   : C#  ·  PHP  ·  TypeScript  ·  Python  ·  SQL
-  building    : aplicações web, APIs RESTful, integrações e modernização de legado
-  breaking    : web apps, APIs, autenticação e lógica de negócio  (lab-only)
-  runtime     : .NET / ASP.NET Core  ·  Laravel  ·  React  ·  Docker  ·  Cloud
-  mindset     : threat model first, ship second
-  side_quest  : game development
+[ operator ]
+handle      = @4zum4 · @azumamagus
+role        = Full Stack Developer :: Offensive Security
+uptime      = 10+ anos entregando software em produção
+status      = open to remote work
 
-┌──(bruno㉿brunofelipe.dev)-[~]
-└─$ nmap -sV --open bruno.local
+[ build ]
+languages   = C# · PHP · TypeScript · Python · SQL
+runtime     = .NET / ASP.NET Core · Laravel · React · Docker · Cloud
+delivers    = aplicações web · APIs RESTful · integrações · modernização de legado
 
-  PORT      STATE   SERVICE        VERSION
-  443/tcp   open    https          brunofelipe.dev (React + Cloudflare edge)
-  8080/tcp  open    http-api       .NET 9 / Laravel 12 · REST
-  5432/tcp  open    postgresql     PostgreSQL · SQL Server · MySQL
-  1337/tcp  open    burp-proxy     OWASP Top 10 · Web Security Academy
-  9000/tcp  filtered game-dev-lab   Godot · C# · prototypes
+[ break ]
+scope       = web apps · APIs · autenticação · lógica de negócio    ; lab-only
+toolkit     = Burp Suite · Kali Linux · Metasploit · OWASP Top 10
+labs        = Hack The Box · TryHackMe · PortSwigger Academy
 
-  Host is up  ·  status: open to remote work  ·  latency: UTC-3
+[ mindset ]
+rule_01     = threat model first, ship second
+rule_02     = segurança faz parte da definição de pronto
+side_quest  = game development
+```
+
+```diff
+@@ nmap -sV --open bruno.local @@
+
++ 443/tcp    open      https         brunofelipe.dev · React + Cloudflare edge
++ 8080/tcp   open      http-api      .NET 9 · Laravel 12 · REST
++ 5432/tcp   open      postgresql    PostgreSQL · SQL Server · MySQL
++ 1337/tcp   open      burp-proxy    OWASP Top 10 · Web Security Academy
+! 9000/tcp   filtered  game-dev-lab  Godot · C# · prototypes
+- 22/tcp     closed    ssh           brute force não é bem-vindo por aqui
+
+# Host is up · latency: UTC-3 · 1 host scanned, 1 developer available
 ```
 
 ---
@@ -130,23 +147,16 @@ Estudo contínuo de segurança ofensiva aplicada ao que eu construo no dia a dia
 
 ---
 
-## Formação
-
-- **UNESP** — Aluno Especial, Mestrado em Mídia e Tecnologia · IA, redes neurais e reconhecimento de padrões
-- **Universidade do Sagrado Coração** — Especialização em Desenvolvimento de Software para Web
-- **FATEC Bauru** — Tecnologia em Banco de Dados · Iniciação científica em RFID
-- **Senac Bauru** — Técnico em Informática
-
----
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=azumamagus&show_icons=true&hide_border=true&theme=github_dark&icon_color=00FF9C&title_color=00FF9C" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azumamagus&layout=compact&hide_border=true&theme=github_dark&title_color=00FF9C" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=azumamagus&hide_border=true&theme=dark&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azumamagus&bg_color=0B0B0F&color=E6FFF4&line=00FF9C&point=E6FFF4&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azumamagus&theme=github_dark" alt="Repos per language" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azumamagus&theme=github_dark" alt="Most commit language" />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azumamagus&theme=github_dark" alt="Stats" />
+
+[![Commit History](https://commit-history.com/embed/azumamagus)](https://commit-history.com/azumamagus)
 
 </div>
 
@@ -154,12 +164,14 @@ Estudo contínuo de segurança ofensiva aplicada ao que eu construo no dia a dia
 
 <div align="center">
 
-```
-"Segurança não é uma etapa final. É parte da definição de pronto."
+```console
+root@brunofelipe.dev:~# echo $MANIFESTO
+"Software não está pronto quando funciona. Está pronto quando resiste."
 ```
 
-**[brunofelipe.dev](https://brunofelipe.dev)** · **[contato@brunofelipe.dev](mailto:contato@brunofelipe.dev)**
+[![Website](https://img.shields.io/badge/brunofelipe.dev-050505?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF9C&labelColor=050505)](https://brunofelipe.dev)
+[![E-mail](https://img.shields.io/badge/contato@brunofelipe.dev-050505?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=050505)](mailto:contato@brunofelipe.dev)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:0F3D2E,100:0B0B0F&height=120&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF9C,55:00251A,100:000000&height=150&section=footer&animation=fadeIn" alt="" width="100%" />
 
 </div>
